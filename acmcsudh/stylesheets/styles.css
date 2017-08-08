@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+.img-resize {
+    width: 100px;
+    height: 100px;
+}
+
+.bigfont {
+    font-size: 50px;
+}
+
+.midfont {
+    font-size: 40px;
+}
+
+.regfont {
+    font-size: 30px;
+}
+
+.centerbullets {
+    width: 200px;
+    margin: 0 auto;
+    text-align: left;
+}
