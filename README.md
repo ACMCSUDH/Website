@@ -1,2 +1,2 @@
 # Website
-Official ACMCSUDH Website
+Official CSUDH ACM Website
